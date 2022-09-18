@@ -3,17 +3,17 @@
 
 <item>
 <title>[COLOR silver][B] PANTANAL MINI SÉRIE DA GLOBO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YWF4ACRICMMPX3Q3A7YJYKLTAACEEFJO$nome=EP.1/9/link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YWF4ACRICMMPX3Q3A7YJYKLTAACEEFJO$nome=EP.1/9/</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EJDWX2DV3PEYTX3GKQDDTYPHZ7SGXZKO$nome=EP.10</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JVDVXA54UVVCM3UXKNLTT2XGNN3ZW7ZS$nome=EP.11</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BODUWFNGPNJPVGFGX3F6LZVK4U2WKRVH$nome=EP.12/13/link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I5AREBW57VJFKI4R77BVMFP5NRIEW7HE$nome=EP.14/15/link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BODUWFNGPNJPVGFGX3F6LZVK4U2WKRVH$nome=EP.12/13/</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I5AREBW57VJFKI4R77BVMFP5NRIEW7HE$nome=EP.14/15/</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PDT2FGEZVYHUYITEFAPXIW5GDSLBCT6Z$nome=EP.16</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52KL7454XS2DA2OD6F6PFS4Q3AGDLVI4$nome=EP.17</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JOCCXJUSPIWFICBTWVHP4EYJH26KA5JS$nome=EP.18</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC33BL7JQ22K6N3ZULCHDDM6CV5GWZHT$nome=EP.19/20/link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC33BL7JQ22K6N3ZULCHDDM6CV5GWZHT$nome=EP.19/20/</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AIRSGPABEJXIJXBJWGBC4QXLVPUDGN74$nome=EP.21</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7WLJ47Z5U5VQYG4TXNEIRZAORVJG4YOT$nome=EP.22/23ink>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7WLJ47Z5U5VQYG4TXNEIRZAORVJG4YOT$nome=EP.22/23</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6LGBI3S5ZWIZYD7D2L7IF5AE6TZDOLDR$nome=EP.24</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5XSNSQ7GBX565P5BS67L7KG3PO7FDMEX$nome=EP.25</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66427T5ZDPEWDWU7ZKZZMTS6KUR6FYN7$nome=EP.26</link>
